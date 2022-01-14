@@ -1,1 +1,1 @@
-# palntilla-bootstrap
+# plantilla-bootstrap
